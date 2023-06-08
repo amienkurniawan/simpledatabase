@@ -1,5 +1,5 @@
 <?php
-// check connection 
+// check connection test
 require('./connnection.php');
 
 $id = $_GET['id'];
